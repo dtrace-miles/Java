@@ -10,7 +10,7 @@ public class booleanTest
 		System.out.println("What is 24 / 2?");
 		alpha = userInput.nextDouble();
 		echo = (12.0 == alpha); //check if alpha is twelve, and return true or false.
-		System.out.println("Did you get the correct answer... " + echo".");
+		System.out.println("Did you get the correct answer... " + echo +".");
 
 
 	}
